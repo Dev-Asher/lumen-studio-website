@@ -1,0 +1,19 @@
+# OS / editor
+.DS_Store
+Thumbs.db
+*.swp
+*~
+
+# Editors
+.vscode/
+.idea/
+
+# Node / tooling
+node_modules/
+package-lock.json
+
+# Secrets & local config
+.env
+.env.*
+!.env.example
+*.log

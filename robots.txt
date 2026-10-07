@@ -1,0 +1,5 @@
+# Lumen Studio — fictional demo portfolio (placeholder deployment URL)
+User-agent: *
+Allow: /
+
+Sitemap: https://example-user.github.io/lumen-studio-website/sitemap.xml
