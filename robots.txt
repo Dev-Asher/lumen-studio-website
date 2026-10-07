@@ -2,4 +2,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://example-user.github.io/lumen-studio-website/sitemap.xml
+Sitemap: https://dev-asher.github.io/lumen-studio-website/sitemap.xml
